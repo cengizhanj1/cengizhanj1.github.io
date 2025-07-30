@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cengizhan.colordodge",
+      "sha256_cert_fingerprints": [
+        "BE:F7:A2:80:1A:A7:EA:73:9E:69:B2:0C:B2:A6:D0:4C:D0:AB:8A:5C:00:87:5D:49:84:97:46:48:F1:AC:01:76"
+      ]
+    }
+  }
+]
